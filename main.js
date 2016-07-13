@@ -1,4 +1,4 @@
-alert("ISSABOX!!!!");
+alert("ISSABOCKS!!!!");
 
 var issasoundbocks = document.getElementById('issasoundbocks');
 function playissabocks() {

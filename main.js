@@ -1,5 +1,5 @@
 var issasoundbocks = document.getElementById('issasoundbocks');
-function playissabokcs() {
+function playissabocks() {
   issasoundbocks.play();
   setTimeout(playissabocks, Math.floor(Math.random * 5000));
 }

@@ -1,3 +1,5 @@
+confirm(ISSABOX!)
+
 var issasoundbocks = document.getElementById('issasoundbocks');
 function playissabocks() {
   issasoundbocks.play();
